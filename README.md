@@ -1,0 +1,2 @@
+# VideoRecorder
+Record video with AVCaptureVideoDataOutputSampleBufferDelegate
